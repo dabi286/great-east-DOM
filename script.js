@@ -25,6 +25,3 @@ ptext.innerHTML = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fug
 ptext.style.color = "White"
 ptext.style.textAlign = "center"
 ptext.style.fontFamily = "Arial"
-
-let global = document.querySelector('body')
-global.style.margin = "0px"

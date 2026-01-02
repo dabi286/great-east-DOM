@@ -24,4 +24,4 @@ let ptext = document.querySelector('.ptext')
 ptext.innerHTML = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, ex nulla! Earum aliquam laborum quo soluta culpa nisi odit! Nulla ratione eos explicabo rerum facilis provident possimus sed optio dicta?"
 ptext.style.color = "White"
 ptext.style.textAlign = "center"
-ptext.style.fontFamily = "Arial"
+ptext.style.fontFamily = "Sans serif"
